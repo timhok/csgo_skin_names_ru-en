@@ -1,0 +1,355 @@
+﻿龍王 (Dragon King)	龍王 (Король драконов) 
+Abyss	Пучина
+Acid Fade	Кислотный градиент
+Afterimage	Остаточное изображение
+Akihabara Accept	Akihabara Accept
+Amber Fade	Янтарный градиент
+Anodized Gunmetal	Анодированный металл
+Anodized Navy	Анодированная синева
+Antique	Антиквариат
+Aqua Terrace	Aqua Terrace
+Aquamarine Revenge	Aquamarine Revenge
+Arctic Camo	Арктический камуфляж
+Armor Core	Броня
+Army Mesh	Армейская сетка
+Army Recon	Армейский спецназ
+Army Sheen	Армейский блеск
+Ash Wood	Ясень
+Asiimov	Азимов
+Asterion	Asterion
+Atomic Alloy	Атомный сплав
+Azure Zebra	Лазурная зебра
+BOOM	БАХ
+Bamboo Forest	Bamboo Forest
+Bamboo Print	Bamboo Print
+Bamboo Shadow	Bamboo Shadow
+Basilisk	Василиск
+Bengal Tiger	Бенгальский тигр
+Black Laminate	Черный глянец
+Black Limba	Черная лимба
+Blaze	Пламя
+Blaze Orange	Оранжевое пламя
+Blind Spot	Слепое пятно
+Blizzard Marbleized	Мраморный буран
+Blood Tiger	Кровавый тигр
+Blood in the Water	Кровь в воде
+Bloomstick	Расцветающая ветка
+Blue Fissure	Синяя трещина
+Blue Laminate	Синий ламинат
+Blue Spruce	Голубая хвоя
+Blue Steel	Вороненая сталь
+Blue Streak	Синяя струя
+Blue Titanium	Синий титан
+Bone Machine	Костемолка
+Bone Mask	Костяная маска
+Bone Pile	Груда костей
+Boreal Forest	Северный лес
+Brass	Латунь
+Bratatat	Тра-та-та
+Briar	Терн
+Bright Water	Чистая вода
+Bronze Deco	Бронзовая декорация
+Bulldozer	Бульдозер
+Bullet Rain	Дождь из пуль
+Bunsen Burner	Bunsen Burner
+Business Class	Бизнес-класс
+Caged Steel	Клетчатая сталь
+Caiman	Кайман
+CaliCamo	Калифорнийский камуфляж
+Candy Apple	Карамельное яблоко
+Caramel	Карамель
+Carbon Fiber	Углепластик
+Cardiac	Кардио
+Cartel	Картель
+Case Hardened	Поверхностная закалка
+Catacombs	Захоронение
+Cerberus	Цербер
+Chainmail	Кольчуга
+Chalice	Чаша
+Chameleon	Хамелеон
+Chatterbox	Щелкунчик
+Chemical Green	Химический зеленый
+Chronos	Chronos
+Coach Class	Эконом-класс
+Cobalt Disruption	Ржавый кобальт
+Cobalt Halftone	Синие полутона
+Cobalt Quartz	Синий кварц
+Cold Blooded	Хладнокровный
+Colony	Колония
+Commuter	Пассажир
+Condemned	Осужденный
+Conspiracy	Заговор
+Contamination	Заражение
+Contractor	Наемник
+Contrast Spray	Контрастные цвета
+Copper	Медь
+Copper Galaxy	Медная галактика
+Copperhead	Медянка
+Corporal	Капрал
+Corticera	Кортисейра
+Counter Terrace	Counter Terrace
+Crimson Kimono	Crimson Kimono
+Crimson Web	Кровавая паутина
+Curse	Проклятие
+Cyanospatter	Голубые брызги
+Cyrex	Сайрекс
+Daedalus	Daedalus
+Damascus Steel	Дамасская сталь
+Dark Age	Темный век
+Dark Water	Темная вода
+Dart	Дротик
+Daybreak	Daybreak
+Deadly Poison	Смертельный яд
+Death Rattle	Гремучая смерть
+Death by Kitty	Смертоносные кошечки
+Delusion	Заблуждение
+Demeter	Витраж
+Demolition	Подрыв
+Desert Storm	Песчаная буря
+Desert Warfare	Война в пустыне
+Desert-Strike	Пустынная атака
+Detour	Объезд
+Djinn	Джинн
+Doomkitty	Смертенок
+Dragon Lore	История о драконе
+Dragon Tattoo	Татуировка дракона
+Dry Season	Сезон засухи
+Duelist	Duelist
+Eco	Эко
+Electric Hive	Электрический улей
+Elite Build	Элитное снаряжение
+Emerald	Изумруд
+Emerald Dragon	Изумрудный дракон
+Emerald Pinstripe	Изумрудные завитки
+Evil Daimyo	Evil Daimyo
+Facets	Грани
+Fade	Градиент
+Faded Zebra	Тусклые полосы
+Fallout Warning	Радиоактивные осадки
+Fire Elemental	Огненный элементаль
+Fire Serpent	Огненный змей
+Firestarter	Поджигатель
+First Class	Первый класс
+Forest DDPAT	Пиксельный камуфляж «Лес»
+Forest Leaves	Лесные листья
+Forest Night	Лесная ночь
+Fowl Play	Птичьи игры
+Franklin	Франклин
+Full Stop	Полная остановка
+Gator Mesh	Крокодиловая сетка
+Ghost Camo	Призрачный камуфляж
+Glacier Mesh	Арктическая сетка
+Golden Koi	Золотой карп
+Grand Prix	Гран-при
+Granite Marbleized	Мраморный гранит
+Graphite	Графит
+Grassland	Цвет луга
+Grassland Leaves	Луговые листья
+Graven	Гравировка
+Green Apple	Зеленое яблоко
+Green Plaid	Зеленая клетка
+Griffin	Грифон
+Grinder	Жернов
+Grotto	Грот
+Groundwater	Грунтовая вода
+Guardian	Страж
+Gunsmoke	Пороховой дым
+Hades	Hades
+Hand Cannon	Пищаль
+Handgun	Handgun
+Hazard	Желто-черные полосы
+Heat	Жар
+Heaven Guard	Райский страж
+Heirloom	Наследие
+Hemoglobin	Гемоглобин
+Hexane	Гексан
+Highwayman	Разбойник
+Hive	Улей
+Hot Rod	Хот-род
+Hot Shot	Лихач
+Howl	Вой
+Hunting Blind	Охотничья будка
+Hydroponic	Hydroponic
+Hyper Beast	Скоростной зверь
+Hypnotic	Гипнотический
+Icarus Fell	Icarus Fell
+Impact Drill	Impact Drill
+Indigo	Индиго
+Irradiated Alert	Радиоактивная опасность
+Isaac	Айзек
+Ivory	Слоновая кость
+Jaguar	Ягуар
+Jet Set	Путешественник
+Jungle	Джунгли
+Jungle DDPAT	Пиксельный камуфляж «Джунгли»
+Jungle Dashed	Тропическая штриховка
+Jungle Spray	Цвет джунглей
+Jungle Tiger	Тигр в джунглях
+Kami	Ками
+Knight	Рыцарь
+Koi	Карп кои
+Labyrinth	Лабиринт
+Leather	Кожа
+Lichen Dashed	Лишайниковая штриховка
+Lightning Strike	Удар молнии
+Loudmouth	Loudmouth
+Magma	Магма
+Malachite	Малахит
+Man-o'-war	Боец
+Marina	Причал
+Master Piece	Шедевр
+Mayan Dreams	Мечты Майя
+Medusa	Medusa
+Mehndi	Роспись
+Memento	Объемные шестиугольники
+Metallic DDPAT	Пиксельный камуфляж «Металлический»
+Meteorite	Метеорит
+Midnight Storm	Midnight Storm
+Minotaur's Labyrinth	Minotaur's Labyrinth
+Mint Kimono	Mint Kimono
+Modern Hunter	Современный охотник
+Module	Модуль
+Monkey Business	Обезьянье дело
+Moon in Libra	Moon in Libra
+Mosaico	Мозаика
+Mudder	Осадок
+Muertos	Покойник
+Murky	Мрак
+Naga	Нага
+Nemesis	Nemesis
+Neon Kimono	Neon Kimono
+Neon Rider	Неоновый гонщик
+Neural Net	Neural Net
+Night	Ночь
+Night Ops	Ночные операции
+Nightshade	Паслен
+Nitro	Нитро
+Nuclear Garden	Ядерный сад
+Nuclear Threat	Ядерная угроза
+Nuclear Waste	Радиоактивные отходы
+Ocean Foam	Океанская пена
+Olive Plaid	Оливковая клетка
+Orange DDPAT	Пиксельный камуфляж «Ржавчина»
+Orange Kimono	Orange Kimono
+Orange Peel	Апельсиновая корка
+Origami	Оригами
+Orion	Орион
+Osiris	Осирис
+Ossified	Окостеневший
+Overgrowth	Камуфляж
+Palm	Пальма
+Pandora's Box	Pandora's Box
+Panther	Пантера
+Para Green	Para Green
+Pathfinder	Pathfinder
+Pilot	Пилот
+Pink DDPAT	Пиксельный камуфляж «Розовый»
+Pit Viper	Гадюка
+Poison Dart	Отравленный дротик
+Polar Camo	Полярный камуфляж
+Polar Mesh	Полярная сетка
+Pole Position	Поул-позиция
+Poseidon	Poseidon
+Predator	Хищник
+Pulse	Пульс
+Quicksilver	Ртуть
+Radiation Hazard	Радиационная опасность
+Ranger	Ranger
+Reactor	Реактор
+Red FragCam	Красные фрагменты
+Red Laminate	Красный глянец
+Red Leather	Красная кожа
+Red Python	Красный питон
+Red Quartz	Красный кварц
+Redline	Красная линия
+Retribution	Возмездие
+Riot	Riot
+Rising Skull	Восходящий череп
+Road Rash	Следы асфальта
+Rocket Pop	Rocket Pop
+Rose Iron	Железная роза
+Royal Blue	Королевский синий
+Ruby Poison Dart	Ruby Poison Dart
+Rust Coat	Пыльник
+Safari Mesh	Африканская сетка
+Sage Spray	Белое напыление
+Sand Dashed	Песчаная штриховка
+Sand Dune	Песчаные дюны
+Sand Mesh	Песчаная сетка
+Sand Spray	Песчаное напыление
+Sandstorm	Песчаная буря
+Scorched	Ожоги
+Scorpion	Скорпион
+Seabird	Seabird
+Serenity	Безмятежность
+Sergeant	Сержант
+Serum	Сыворотка
+Setting Sun	Закат
+Shattered	Осколки
+Shipping Forecast	Shipping Forecast
+Silver	Серебро
+Silver Quartz	Серебряный кварц
+Skulls	Черепа
+Slashed	Когти
+Snake Camo	Змеиная кожа
+Spitfire	Истребитель
+Splash	Пятно
+Splash Jam	Пятна от краски
+Stained	Патина
+Stainless	Нержавейка
+Steel Disruption	Ржавая сталь
+Storm	Гроза
+Styx	Стикс
+Sun in Leo	Sun in Leo
+Sunset Storm 壱	Sunset Storm 壱
+Sunset Storm 弐	Sunset Storm 弐
+Supernova	Сверхновая
+System Lock	Блокировка
+Tatter	Обгорание
+Teardown	Демонтаж
+Tempest	Буря
+Terrace	Terrace
+Terrain	Почва
+The Fuschia Is Now	Новая фуксия
+The Kraken	Кракен
+Tigris	Тигр
+Titanium Bit	Частица титана
+Tornado	Смерч
+Torque	Закрученный
+Torque	Torque
+Toxic	Токсичность
+Tranquility	Спокойствие
+Traveler	Странник
+Tread Plate	Листовая сталь
+Trigon	Треугольник
+Tropical Storm	Тропическая гроза
+Tuxedo	Смокинг
+Twilight Galaxy	Twilight Galaxy
+Twist	Спираль
+Ultraviolet	Ультрафиолет
+Undertow	Цвета прибоя
+Urban DDPAT	Пиксельный камуфляж «Город»
+Urban Dashed	Городская штриховка
+Urban Hazard	Городская опасность
+Urban Perforated	Городская перфорация
+Urban Rubble	Городской щебень
+Urban Shock	Городской шок
+Valence	Валентность
+VariCamo	Смешанный камуфляж
+VariCamo Blue	Смешанный синий камуфляж
+Victoria	Виктория
+Virus	Вирус
+Vulcan	Вулкан
+Walnut	Грецкий орех
+Wasteland Rebel	Пустынный повстанец
+Water Elemental	Водяной
+Water Sigil	Знак воды
+Wave Spray	Брызги волны
+Waves Perforated	Перфорированные волны
+Whiteout	Снежная мгла
+Wings	Крылья
+Winter Forest	Зимний лес
+Worm God	Бог червей
+X-Ray	Рентген
+Yellow Jacket	Yellow Jacket
+Zirka	Зірка
